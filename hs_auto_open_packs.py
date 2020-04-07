@@ -1,7 +1,7 @@
 '''
 hs_auto_open_packs.py
 炉石自动开卡包工具
-win10需要管理员权限运行
+win10可能需要管理员权限运行
 '''
 
 import time
