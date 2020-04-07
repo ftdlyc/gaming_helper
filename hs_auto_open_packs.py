@@ -84,4 +84,4 @@ if __name__ == '__main__':
     win32gui.SendMessage(main_hWnd, win32con.WM_KEYDOWN, 0x20, 0x390001)
     win32gui.SendMessage(main_hWnd, win32con.WM_CHAR, 0x20, 0x390001)
     win32gui.SendMessage(main_hWnd, win32con.WM_KEYUP, 0x20, 0xc0390001)
-    wait_seconds(0.5)
+    wait_seconds(0.1)
